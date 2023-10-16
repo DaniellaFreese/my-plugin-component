@@ -2,6 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: my-my-plugin-component
+  annotations:
+     konnect/control-plane-id: 7a3f11a0-bbba-40b3-b8d4-c4e54bf0d8b4
+     konnect/gateway-service-id: fad1b85c-80b3-4ea8-8a65-2ece79a83dbf
 spec:
   lifecycle: production
   owner: my-team
