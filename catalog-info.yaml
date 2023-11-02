@@ -4,7 +4,7 @@ metadata:
   name: my-test-component
   annotations:
      konnect/control-plane-id: 7a3f11a0-bbba-40b3-b8d4-c4e54bf0d8b4
-     konnect/gateway-service-id: fad1b85c-80b3-4ea8-8a65-2ece79a83dbf
+     konnect/gateway-service-id: e9faa274-14b4-4e46-a9ae-cfe81fe4ed9f
 spec:
   lifecycle: production
   owner: my-team
